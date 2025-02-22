@@ -1,11 +1,12 @@
-# Veri Kazıma ve Veri Temizleme Projesi
+# Konut Fiyatları Tahmin Projesi
 
-Bu proje, web sitelerinden veri kazıma, veri temizleme ve veri kodlama aşamalarını kapsamaktadır. Python, Selenium, BeautifulSoup ve Pandas kullanarak veri kazıma, Excel ortamında veri temizleme ve makine öğrenmesi modelleri için uygun veri kodlama yöntemlerini öğrenebilirsiniz.
+Bu proje, bir makine öğrenme modeli kurmanın aşamalarını kapsamaktadır. Sizlerde, buradaki çalışmaları yaparak makine öğrenmesi modelleri kurup tahmin yapmayı öğrenebilirsiniz. 
+Böylece, bu proje ile veri elde etme ile başlayıp bu makine öğrenmesi modellerini gerçek hayatta nasıl uygulayabileceğinizi öğrenmiş olacaksınız. 🚀
 
 ## İçerik
 
 ### 1. Veri Kazıma (Web Scraping)
-Bu aşama, internet üzerindeki verileri toplamak için kullanılan Python araçlarıyla gerçekleştirilir. Selenium, BeautifulSoup ve Pandas ile yaklaşık 30.000 konut ilanı verisi kazındı ve bir veri setine dönüştürüldü.
+Bu aşama, internet üzerindeki verileri toplamak için kullanılan Python araçlarıyla gerçekleştirilir. Selenium, BeautifulSoup ve Pandas ile 28.622 konut ilanı verisi kazındı ve bir veri setine dönüştürüldü.
 
 - Python ile veri kazıma adımları
 - Selenium ve BeautifulSoup kullanarak web sayfalarından veri çekme
