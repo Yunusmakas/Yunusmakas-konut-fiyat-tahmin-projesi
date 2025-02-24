@@ -25,23 +25,23 @@ Kategorik verileri sayısala çevirerek modelin anlayabileceği hale getireceksi
 
 ## 4. Keşifsel Veri Analizi (EDA)
 Veriyi anlamak için görselleştirme ve korelasyon analizleri yapacaksınız.
-📹 Video Linki:https://www.youtube.com/watch?v=Hzhtx2LV-Kc&t=338s
+[📹 Video Linki](https://www.youtube.com/watch?v=Hzhtx2LV-Kc&t=338s)
 
 ## 5. Makine Öğrenmesi Modelleri
 Farklı algoritmalar ile konut fiyatlarını tahmin etmeyi öğreneceksiniz.
-📹 Video Linki:https://www.youtube.com/watch?v=haf6WA-Ll1Y&t=13s
+[📹 Video Linki](https://www.youtube.com/watch?v=haf6WA-Ll1Y&t=13s)
 
 ## 6. Hiperparametre Optimizasyonu
 Modelleri en iyi hale getirmek için hiperparametre ayarlamaları yapacaksınız.
-📹 Video Linki: 
+[📹 Video Linki:]() 
 
 ## 7. Öznitelik Mühendisliği & Hibrid Modeller
 Yeni değişkenler oluşturup farklı modelleri birleştirerek tahminleri güçlendireceksiniz.
-📹 Video Linki: 
+[📹 Video Linki: ]()
 
 ## 8. Modeli Deploy Etme
 Makine öğrenmesi modelinizi bir web uygulamasına dönüştüreceksiniz.
-📹 Video Linki: 
+[📹 Video Linki: ]()
 
 Bu video serisi ve veri seti ile siz de kendi tahmin modelinizi geliştirebilirsiniz! 🚀
 
