@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import joblib
 import numpy as np
@@ -185,7 +184,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
->>>>>>> dd5a32b (Merge remote changes)
