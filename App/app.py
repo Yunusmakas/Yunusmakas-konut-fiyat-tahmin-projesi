@@ -13,7 +13,7 @@ if 'warnings' not in sys.modules:
 @st.cache_resource
 def load_model():
     try:
-        return joblib.load('Konut_tahmin_model.pkl')
+        return joblib.load('konut_tahmin_model.pkl')
     except Exception as e:
         st.error(f"Model yüklenirken hata oluştu: {str(e)}")
         return None
