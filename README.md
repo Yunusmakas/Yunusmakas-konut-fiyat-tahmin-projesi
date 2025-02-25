@@ -9,49 +9,49 @@ Bu proje, DeepMineAi olarak yürüttüğümüz veri bilimi ve yapay zeka projele
 ## İçerik
 
 ### 1. Veri Kazıma (Web Scraping)
-İnternetten veri çekmeyi öğrenerek, Selenium ve BeautifulSoup kullanarak istediğiniz verileri nasıl kazıyacağınızı öğreneceksiniz.
+Makine öğrenmesi projelerinin temelini veri oluşturur. İlk adım olarak, Selenium ve BeautifulSoup kullanarak web sitelerinden veri çekmeyi öğreniyoruz.
 
 **Video Linki:**  
 [📹 Veri Kazıma (Web Scraping)](https://www.youtube.com/watch?v=0UdZ5_HMlWE)
 
 ### 2. Veri Temizleme (Data Cleaning)
-Eksik ve hatalı verileri temizleyerek makine öğrenmesine uygun hale getireceksiniz.
+Gerçek dünya verileri her zaman düzenli değildir. Bu aşamada, eksik ve hatalı verileri nasıl temizleyeceğinizi öğreneceksiniz.
 
 **Video Linki:**  
 [📹 Veri Temizleme (Data Cleaning)](https://www.youtube.com/watch?v=A-D9bw4S0MI)
 
 ### 3. Veri Kodlama (Data Encoding)
-Kategorik verileri sayısala çevirerek modelin anlayabileceği hale getireceksiniz.
+Makine öğrenmesi algoritmaları sayısal verilerle çalışır. Bu nedenle, kategorik değişkenleri nasıl sayısal hale getireceğimizi ele alıyoruz.
 
 **Video Linki:**  
 [📹 Data Encoding](https://www.youtube.com/watch?v=ZU3OkNV-23U)
 
 ## 4. Keşifsel Veri Analizi (EDA)
-Veriyi anlamak için görselleştirme ve korelasyon analizleri yapacaksınız.
+Etkili modeller geliştirebilmek için veriyi iyi anlamak gerekir. Bu bölümde, veri görselleştirme ve korelasyon analizleri yaparak veriyi yorumlamayı
 
 **Video Linki:**  
 [📹 Keşifsel Veri Analizi](https://www.youtube.com/watch?v=Hzhtx2LV-Kc&t=338s)
 
 ## 5. Outlier (Aykırı) Değerleri Temizleme
-Veri setinden aykırı değerleri temizlemeyi öğreneceksiniz.
+Aykırı değerler, modelimizin doğruluğunu ciddi şekilde etkileyebilir. Bu aşamada, veri setinden anormal değerleri nasıl temizleyeceğinizi göstereceğiz.
 
 **Video Linki:**  
 [📹 Aykırı Değerleri Temizleme](https://www.youtube.com/watch?v=BjVN35lhi3Q&t=2s)
 
 ## 6. Makine Öğrenmesi Modelleri
-Farklı algoritmalar ile konut fiyatlarını tahmin etmeyi öğreneceksiniz.
+Bu aşamada, farklı makine öğrenmesi algoritmalarını kullanarak konut fiyatlarını tahmin edeceğiz.
 
 **Video Linki:**  
 [📹  Makine Öğrenmesi Modelleri](https://www.youtube.com/watch?v=haf6WA-Ll1Y&t=13s)
 
 ## 7. Hiperparametre Optimizasyonu
-Modelleri en iyi hale getirmek için hiperparametre ayarlamaları yapacaksınız.
+Makine öğrenmesi modellerinin performansını artırmak için GridSearchCV ve RandomizedSearchCV gibi yöntemlerle hiperparametre optimizasyonu yapacağız.
 
-## 9. Öznitelik Mühendisliği & Hibrid Modeller
-Yeni değişkenler oluşturup farklı modelleri birleştirerek tahminleri güçlendireceksiniz.
+## 8. Öznitelik Mühendisliği & Hibrid Modeller
+Daha doğru tahminler yapmak için yeni değişkenler oluşturmayı ve farklı modelleri birleştirmeyi öğreneceksiniz.
 
 ## 9. Modeli Deploy Etme
-Makine öğrenmesi modelinizi bir web uygulamasına dönüştüreceksiniz.
+Projenin en heyecan verici aşamalarından biri! Geliştirdiğimiz modeli Streamlit kullanarak bir web uygulaması haline getirecek ve herkesin erişebileceği hale getireceğiz.
 
 Bu video serisi ve veri seti ile siz de kendi tahmin modelinizi geliştirebilirsiniz! 🚀
 
