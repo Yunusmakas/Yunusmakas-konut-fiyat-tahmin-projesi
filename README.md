@@ -2,26 +2,26 @@
 
 Bu proje, bir makine öğrenme modeli kurmanın aşamalarını kapsamaktadır. Sizlerde, buradaki çalışmaları yaparak makine öğrenmesi modelleri kurup tahmin yapmayı öğrenebilirsiniz. 
 Bu proje ile birlikte, veri elde etme ile başlayıp makine öğrenmesi modellerini gerçek hayatta nasıl uygulayabileceğinizi öğrenmiş olacaksınız. 🚀
-
+Bu proje türkçe olarak yayınlanmış işl uctan uca makine öğrenmesi projesidir.
 ## İçerik
 
 ### 1. Veri Kazıma (Web Scraping)
 İnternetten veri çekmeyi öğrenerek, Selenium ve BeautifulSoup kullanarak istediğiniz verileri nasıl kazıyacağınızı öğreneceksiniz.
 
 **Video Linki:**  
-[Veri Kazıma (Web Scraping)](https://www.youtube.com/watch?v=0UdZ5_HMlWE)
+[📹 Veri Kazıma (Web Scraping)](https://www.youtube.com/watch?v=0UdZ5_HMlWE)
 
 ### 2. Veri Temizleme (Data Cleaning)
 Eksik ve hatalı verileri temizleyerek makine öğrenmesine uygun hale getireceksiniz.
 
 **Video Linki:**  
-[Veri Temizleme (Data Cleaning)](https://www.youtube.com/watch?v=A-D9bw4S0MI)
+[📹 Veri Temizleme (Data Cleaning)](https://www.youtube.com/watch?v=A-D9bw4S0MI)
 
 ### 3. Veri Kodlama (Data Encoding)
 Kategorik verileri sayısala çevirerek modelin anlayabileceği hale getireceksiniz.
 
 **Video Linki:**  
-[Data Encoding](https://www.youtube.com/watch?v=ZU3OkNV-23U)
+[📹 Data Encoding](https://www.youtube.com/watch?v=ZU3OkNV-23U)
 
 ## 4. Keşifsel Veri Analizi (EDA)
 Veriyi anlamak için görselleştirme ve korelasyon analizleri yapacaksınız.
@@ -52,4 +52,3 @@ Makine öğrenmesi modelinizi bir web uygulamasına dönüştüreceksiniz.
 
 Bu video serisi ve veri seti ile siz de kendi tahmin modelinizi geliştirebilirsiniz! 🚀
 
-Bu video serisi ve veri seti ile siz de kendi tahmin modelinizi geliştirebilirsiniz! 🚀
