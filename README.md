@@ -42,14 +42,16 @@ Aykırı değerler, modelimizin doğruluğunu ciddi şekilde etkileyebilir. Bu a
 Bu aşamada, farklı makine öğrenmesi algoritmalarını kullanarak konut fiyatlarını tahmin edeceğiz.
 
 **Video Linki:**  
-[📹  Makine Öğrenmesi Modelleri](https://www.youtube.com/watch?v=haf6WA-Ll1Y&t=13s)
+[📹 Makine Öğrenmesi Modelleri](https://www.youtube.com/watch?v=haf6WA-Ll1Y&t=13s)
 
 ## 7. Hiperparametre Optimizasyonu
 Makine öğrenmesi modellerinin performansını artırmak için GridSearchCV ve RandomizedSearchCV gibi yöntemlerle hiperparametre optimizasyonu yapacağız.
+[📹 Hiperparametre Optimizasyonu](https://www.youtube.com/watch?v=d0izOGums98&t=165s)
 
 ## 8. Öznitelik Mühendisliği & Hibrid Modeller
 Daha doğru tahminler yapmak için yeni değişkenler oluşturmayı ve farklı modelleri birleştirmeyi öğreneceksiniz.
 
+[📹  Öznitelik Mühendisliği](https://www.youtube.com/watch?v=01NWsWflzpA)
 ## 9. Modeli Deploy Etme
 Projenin en heyecan verici aşamalarından biri! Geliştirdiğimiz modeli Streamlit kullanarak bir web uygulaması haline getirecek ve herkesin erişebileceği hale getireceğiz.
 
