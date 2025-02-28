@@ -61,7 +61,8 @@ Projenin en heyecan verici aşamalarından biri! Geliştirdiğimiz modeli Stream
 **Video Linki:**  
 [📹  Modeli Yayınlama](https://www.youtube.com/watch?v=2JgEehtBD8s)
 
-[Projede yapılan adımları daha detaylı öğrenmek için tıklayınız](https://www.deepmineai.com/konut-fiyatlari-tahmin-projesi/)
+Projede yapılan adımları daha detaylı öğrenmek için web sitemizi ziyaret ediniz.
+[Deepmineai.com](https://www.deepmineai.com/konut-fiyatlari-tahmin-projesi/)
 
 Bu video serisi ve veri seti ile siz de kendi makine öğrenmesi modelinizi geliştirebilirsiniz! 🚀
 
