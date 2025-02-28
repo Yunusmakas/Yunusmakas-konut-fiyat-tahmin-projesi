@@ -52,8 +52,14 @@ Makine öğrenmesi modellerinin performansını artırmak için GridSearchCV ve 
 Daha doğru tahminler yapmak için yeni değişkenler oluşturmayı ve farklı modelleri birleştirmeyi öğreneceksiniz.
 
 [📹  Öznitelik Mühendisliği](https://www.youtube.com/watch?v=01NWsWflzpA)
+
 ## 9. Modeli Deploy Etme
 Projenin en heyecan verici aşamalarından biri! Geliştirdiğimiz modeli Streamlit kullanarak bir web uygulaması haline getirecek ve herkesin erişebileceği hale getireceğiz.
 
-Bu video serisi ve veri seti ile siz de kendi tahmin modelinizi geliştirebilirsiniz! 🚀
+**Video Linki:**  
+[📹  Modeli Yayınlama]([https://www.youtube.com/watch?v=01NWsWflzpA](https://www.youtube.com/watch?v=2JgEehtBD8s))
+
+[Projede yapılan adımları daha detaylı öğrenmek için tıklayınız] ([https://www.deepmineai.com/konut-fiyatlari-tahmin-projesi/])
+
+Bu video serisi ve veri seti ile siz de kendi makine öğrenmesi modelinizi geliştirebilirsiniz! 🚀
 
