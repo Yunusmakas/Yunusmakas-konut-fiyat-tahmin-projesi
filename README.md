@@ -3,7 +3,7 @@
 Bu proje, bir makine öğrenme modeli (ML) kurmanın aşamalarını kapsamaktadır. Sizlerde, buradaki çalışmaları yaparak makine öğrenmesi modelleri kurup tahmin yapmayı öğrenebilirsiniz. 
 Bu proje ile birlikte, veri elde etme ile başlayıp makine öğrenmesi modellerini gerçek hayatta nasıl uygulayabileceğinizi öğrenmiş olacaksınız. 🚀
 
-Bu proje, DeepMineAi olarak yürüttüğümüz veri bilimi ve yapay zeka projeleri kapsamında geliştirdiğimiz önemli çalışmalardan biri. Türkiye’de Streamlit üzerinde bir ML modelinin nasıl deploy edileceğini gösteren ilk Türkçe video serisi ile karşınızdayız.
+Bu proje, DeepMineAi olarak yürüttüğümüz önemli çalışmalardan biri oldu. Türkiye’de Streamlit üzerinde bir ML modelinin nasıl deploy edileceğini gösteren ilk Türkçe video serisi ile karşınızdayız.
 
 
 ## İçerik
