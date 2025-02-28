@@ -46,6 +46,8 @@ Bu aşamada, farklı makine öğrenmesi algoritmalarını kullanarak konut fiyat
 
 ## 7. Hiperparametre Optimizasyonu
 Makine öğrenmesi modellerinin performansını artırmak için GridSearchCV ve RandomizedSearchCV gibi yöntemlerle hiperparametre optimizasyonu yapacağız.
+
+**Video Linki:**  
 [📹 Hiperparametre Optimizasyonu](https://www.youtube.com/watch?v=d0izOGums98&t=165s)
 
 ## 8. Öznitelik Mühendisliği & Hibrid Modeller
@@ -59,7 +61,7 @@ Projenin en heyecan verici aşamalarından biri! Geliştirdiğimiz modeli Stream
 **Video Linki:**  
 [📹  Modeli Yayınlama](https://www.youtube.com/watch?v=2JgEehtBD8s)
 
-[Projede yapılan adımları daha detaylı öğrenmek için tıklayınız]([https://www.deepmineai.com/konut-fiyatlari-tahmin-projesi/])
+[Projede yapılan adımları daha detaylı öğrenmek için tıklayınız](https://www.deepmineai.com/konut-fiyatlari-tahmin-projesi/)
 
 Bu video serisi ve veri seti ile siz de kendi makine öğrenmesi modelinizi geliştirebilirsiniz! 🚀
 
