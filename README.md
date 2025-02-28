@@ -57,9 +57,9 @@ Daha doğru tahminler yapmak için yeni değişkenler oluşturmayı ve farklı m
 Projenin en heyecan verici aşamalarından biri! Geliştirdiğimiz modeli Streamlit kullanarak bir web uygulaması haline getirecek ve herkesin erişebileceği hale getireceğiz.
 
 **Video Linki:**  
-[📹  Modeli Yayınlama]([https://www.youtube.com/watch?v=01NWsWflzpA](https://www.youtube.com/watch?v=2JgEehtBD8s))
+[📹  Modeli Yayınlama](https://www.youtube.com/watch?v=2JgEehtBD8s)
 
-[Projede yapılan adımları daha detaylı öğrenmek için tıklayınız] ([https://www.deepmineai.com/konut-fiyatlari-tahmin-projesi/])
+[Projede yapılan adımları daha detaylı öğrenmek için tıklayınız]([https://www.deepmineai.com/konut-fiyatlari-tahmin-projesi/])
 
 Bu video serisi ve veri seti ile siz de kendi makine öğrenmesi modelinizi geliştirebilirsiniz! 🚀
 
