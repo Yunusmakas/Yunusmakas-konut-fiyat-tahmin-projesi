@@ -9,7 +9,8 @@ Bu proje DeepMineAi kapsamında hazırlanmıştır ve Türkiye’de Streamlit ü
 
 ## 📂 Proje Yapısı
 
-Tüm adımlar Jupyter Notebook dosyaları ile sunulmuştur. Sağ tıklayıp "Hedefi Farklı Kaydet" i seçebilirsiniz.
+Tüm adımlar Jupyter Notebook dosyaları ile sunulmuştur. 
+Not: Sağ tıklayıp "Bağlantıyı Farklı Kaydet" i seçebilirsiniz.
 
 ---
 
