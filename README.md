@@ -12,57 +12,57 @@ Bu proje, DeepMineAi olarak yürüttüğümüz önemli çalışmalardan biri old
 Makine öğrenmesi projelerinin temelini veri oluşturur. İlk adım olarak, Selenium ve BeautifulSoup kullanarak web sitelerinden veri çekmeyi öğreniyoruz.
 
 **Video Linki:**  
-[📹 Veri Kazıma (Web Scraping)](https://www.youtube.com/watch?v=0UdZ5_HMlWE)
+[📹 Veri Kazıma (Web Scraping)](https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
 
 ### 2. Veri Temizleme (Data Cleaning)
 Gerçek dünya verileri her zaman düzenli değildir. Bu aşamada, eksik ve hatalı verileri nasıl temizleyeceğinizi öğreneceksiniz.
 
 **Video Linki:**  
-[📹 Veri Temizleme (Data Cleaning)](https://www.youtube.com/watch?v=A-D9bw4S0MI)
+[📹 Veri Temizleme (Data Cleaning)](https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
 
 ### 3. Veri Kodlama (Data Encoding)
 Makine öğrenmesi algoritmaları sayısal verilerle çalışır. Bu nedenle, kategorik değişkenleri nasıl sayısal hale getireceğimizi ele alıyoruz.
 
 **Video Linki:**  
-[📹 Data Encoding](https://www.youtube.com/watch?v=ZU3OkNV-23U)
+[📹 Data Encoding](https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
 
 ## 4. Keşifsel Veri Analizi (EDA)
 Etkili modeller geliştirebilmek için veriyi iyi anlamak gerekir. Bu bölümde, veri görselleştirme ve korelasyon analizleri yaparak veriyi yorumlamayı
 
 **Video Linki:**  
-[📹 Keşifsel Veri Analizi](https://www.youtube.com/watch?v=Hzhtx2LV-Kc&t=338s)
+[📹 Keşifsel Veri Analizi](https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
 
 ## 5. Outlier (Aykırı) Değerleri Temizleme
 Aykırı değerler, modelimizin doğruluğunu ciddi şekilde etkileyebilir. Bu aşamada, veri setinden anormal değerleri nasıl temizleyeceğinizi göstereceğiz.
 
 **Video Linki:**  
-[📹 Aykırı Değerleri Temizleme](https://www.youtube.com/watch?v=BjVN35lhi3Q&t=2s)
+[📹 Aykırı Değerleri Temizleme](https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
 
 ## 6. Makine Öğrenmesi Modelleri
 Bu aşamada, farklı makine öğrenmesi algoritmalarını kullanarak konut fiyatlarını tahmin edeceğiz.
 
 **Video Linki:**  
-[📹 Makine Öğrenmesi Modelleri](https://www.youtube.com/watch?v=haf6WA-Ll1Y&t=13s)
+[📹 Makine Öğrenmesi Modelleri](https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
 
 ## 7. Hiperparametre Optimizasyonu
 Makine öğrenmesi modellerinin performansını artırmak için GridSearchCV ve RandomizedSearchCV gibi yöntemlerle hiperparametre optimizasyonu yapacağız.
 
 **Video Linki:**  
-[📹 Hiperparametre Optimizasyonu](https://www.youtube.com/watch?v=d0izOGums98&t=165s)
+[📹 Hiperparametre Optimizasyonu](https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
 
 ## 8. Öznitelik Mühendisliği & Hibrid Modeller
 Daha doğru tahminler yapmak için yeni değişkenler oluşturmayı ve farklı modelleri birleştirmeyi öğreneceksiniz.
 
-[📹  Öznitelik Mühendisliği](https://www.youtube.com/watch?v=01NWsWflzpA)
+[📹  Öznitelik Mühendisliği](https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
 
 ## 9. Modeli Deploy Etme
 Projenin en heyecan verici aşamalarından biri! Geliştirdiğimiz modeli Streamlit kullanarak bir web uygulaması haline getirecek ve herkesin erişebileceği hale getireceğiz.
 
 **Video Linki:**  
-[📹  Modeli Yayınlama](https://www.youtube.com/watch?v=2JgEehtBD8s)
+[📹  Modeli Yayınlama](https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
 
 Projede yapılan adımları daha detaylı öğrenmek için web sitemizi ziyaret ediniz.
-[Deepmineai.com](https://www.deepmineai.com/konut-fiyatlari-tahmin-projesi/)
+[https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip](https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
 
 Bu video serisi ve veri seti ile siz de kendi makine öğrenmesi modelinizi geliştirebilirsiniz! 🚀
 
