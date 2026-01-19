@@ -12,7 +12,7 @@ Bu proje, DeepMineAi olarak yürüttüğümüz önemli çalışmalardan biri old
 Makine öğrenmesi projelerinin temelini veri oluşturur. İlk adım olarak, Selenium ve BeautifulSoup kullanarak web sitelerinden veri çekmeyi öğreniyoruz.
 
 **Video Linki:**  
-[📹 Veri Kazıma (Web Scraping)](https://raw.githubusercontent.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
+[📹 Veri Kazıma (Web Scraping)](https://github.com/Yunusmakas/Yunusmakas-konut-fiyat-tahmin-projesi/main/Proje Kodları/projesi_tahmin_fiyat_konut_Yunusmakas_v1.7.zip)
 
 ### 2. Veri Temizleme (Data Cleaning)
 Gerçek dünya verileri her zaman düzenli değildir. Bu aşamada, eksik ve hatalı verileri nasıl temizleyeceğinizi öğreneceksiniz.
